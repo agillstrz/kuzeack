@@ -28,3 +28,9 @@ footer a {
 .card-title{
   text-center;
 }
+.card-body a{
+  background-color:#11161F;
+}
+.card-body a:hover{
+  background-color:red;
+}
