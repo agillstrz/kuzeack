@@ -1,4 +1,6 @@
-
+body{
+  background-color:#1f292e;
+}
 .jumbotron {
   padding-top: 8rem;
   background-color: #222327;
